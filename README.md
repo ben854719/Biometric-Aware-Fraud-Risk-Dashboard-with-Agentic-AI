@@ -137,7 +137,7 @@ This fraud detection application is engineered for a high stakes fintech environ
   
 - Flags relevant patterns for deeper interpretation.
 
-## - Report Structuring:
+## Report Structuring:
 
 - Organizes findings into structured formats (JSON, Markdown, dashboard-ready).
   
