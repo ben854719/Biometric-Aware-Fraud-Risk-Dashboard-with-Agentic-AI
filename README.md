@@ -50,7 +50,7 @@ This fraud detection application is engineered for a high stakes fintech environ
 
 - Cryptography
 - Python
-- Polar
+- Polars
 - Pandas
 - Pytorch
 - Numpy
