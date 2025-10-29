@@ -62,6 +62,7 @@ This fraud detection application is engineered for a high stakes fintech environ
 - LangGraph
 - LangChain
 - OpenCV
+- NLTK
 - Heygen AI Avatar
 - MCP Server
 - Gemini 2.5 flash
