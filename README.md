@@ -96,7 +96,81 @@ This fraud detection application is engineered for a high stakes fintech environ
 - They power the modular intelligence behind the system — reducing manual review time by 60% and enabling scalable, explainable fraud detection.
 
 - Answering follow-up questions.
+
+## Avatar Setup in Google Colab:
+
+## Create and Download your Avatar:
+
+- Heygen videos should be pre-rendered and uploaded to your Colab environment for integration.
+
+- Install video processing and orchestration tools for the avatar integration.
+
+-  For video editing and overlay rendering (!pip install moviepy opencv-python-headless).
+
+-  For agentic flow control and avatar behavior scripting (!pip install langgraph & langchain).
+
+## Display the Avatar:
+
+- For Video use Markdown or HTML to show it in the notebook.
+
+- Add a Scripted Introduction:
+
+- Write a short welcome message below the avatar (e.g., “Hi, I am your assistant!”).
+
+  ## LangGraph + LangChain Overview: Multi-Step Report Generation Flow:
+
+  - This agentic flow uses LangGraph to orchestrate reasoning steps and LangChain to route tools, manage memory, and trigger external APIs. It processes incoming text,          detects key signals, and generates structured reports — all within a modular, explainable framework.
+
+##  Node Structure:
+
+- Input Normalization
   
+- Cleans and standardizes incoming text using lightweight string logic or LangChain tools.
+  
+- Prepares input for signal detection and downstream reasoning.
+
+## Signal Detection:
+
+- Identifies sentiment, anomalies, or behavioral cues using LangChain-integrated models.
+  
+- Flags relevant patterns for deeper interpretation.
+
+## - Report Structuring:
+
+- Organizes findings into structured formats (JSON, Markdown, dashboard-ready).
+  
+- Includes timestamps, severity scores, and recommended actions.
+
+ ## Fallback Logic:
+ 
+- Activates when input is noisy, signal confidence is low, or APIs fail.
+  
+- LangGraph routes to clarifying prompts or simplified analysis paths using LangChain memory or tools.
+
+## Output Delivery:
+
+- Returns the structured report or triggers avatar narration.
+  
+- Optionally escalates to dashboards or compliance systems.
+
+## Integration Notes:
+
+- LangGraph handles stateful orchestration and node transitions.
+  
+- LangChain powers tool routing, memory, and external API access.
+  
+- Fallback logic ensures resilience and graceful recovery.
+  
+- Optional: Trigger Heygen avatar overlays based on report severity or signal type.
+
+## Data Referral:
+
+- Dataset title: Marketwatch
+
+- Links: https://www.marketwatch.com/investing/index/gsptse/download-data?startDate=9/29/2025&endDate=10/27/2025&countryCode=ca
+
+
+
 
 
   
