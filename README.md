@@ -121,7 +121,7 @@ This fraud detection application is engineered for a high stakes fintech environ
 
   ## LangGraph + LangChain Overview: Multi-Step Report Generation Flow:
 
-  - This agentic flow uses LangGraph to orchestrate reasoning steps and LangChain to route tools, manage memory, and trigger external APIs. It processes incoming text,          detects key signals, and generates structured reports — all within a modular, explainable framework.
+- This agentic flow uses LangGraph to orchestrate reasoning steps and LangChain to route tools, manage memory, and trigger external APIs. It processes incoming text,          detects key signals, and generates structured reports — all within a modular, explainable framework.
 
 ##  Node Structure:
 
