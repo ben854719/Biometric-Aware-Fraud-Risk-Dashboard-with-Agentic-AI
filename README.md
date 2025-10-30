@@ -90,7 +90,7 @@ This fraud detection application is engineered for a high stakes fintech environ
 
 - To enable the autonomous investigative agents that trace suspicious trades and generate audit trails.
   
-- install the core agentic frameworks with pip install langgraph langchain. LangGraph provides the stateful orchestration layer that governs how the avatar and agents move    through reasoning steps, while LangChain handles tool routing, memory, and external API integration.
+- install the core agentic frameworks with (!pip install langgraph) and (!pip install langchain). LangGraph provides the stateful orchestration layer that governs how the avatar and agents move    through reasoning steps, while LangChain handles tool routing, memory, and external API integration.
   
 - Node.
   
