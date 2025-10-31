@@ -61,7 +61,6 @@ This fraud detection application is engineered for a high stakes fintech environ
 - Agentic AI
 - LangGraph
 - LangChain
-- OpenCV
 - NLTK
 - Heygen AI Avatar
 - MCP Server
@@ -81,10 +80,6 @@ This fraud detection application is engineered for a high stakes fintech environ
 ## RS256 Asymmetric Encryption Setup:
 
 -  is an RSA signature algorithm used with JSON Web Tokens (JWT). It uses a private key to sign data and a public key to verify it.
-
-## OpenCV:
-
-- To enable biometric signal processing and avatar video analysis in Google Colab, install OpenCV with "!pip install opencv-python-headless" for optimized performance in      headless environments.
 
 ## LangGraph and LangChain - Autonomous Investigative Agents:
 
@@ -108,7 +103,7 @@ This fraud detection application is engineered for a high stakes fintech environ
 
 - Install video processing and orchestration tools for the avatar integration.
 
--  For video editing and overlay rendering (!pip install moviepy opencv-python-headless).
+- Install IPython to enable HTML rendering of the HeyGen avatar video link within your Colab notebook.
 
 -  For agentic flow control and avatar behavior scripting (!pip install langgraph & langchain).
 
