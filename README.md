@@ -2,7 +2,7 @@
 
 ## Objective:
 
-This fraud detection application is engineered for a high stakes fintech environments, integrating biometric signals, behavioral analytics, and Agentic AI Avatar to proactively identify, explain, and mitigate stock fraud in real time. Built with Matplotlib for dynamic visualization and Polars for scalable data modeling and cleaning, it applies ML-driven sentiment analysis to detect anomalous trading behavior with over 90% accuracy across multiple datasets. The system features adaptive thresholds that recalibrate based on market volatility and user behavior (boosting detection precision by 42%), and autonomous investigative agents that reduce manual review time by 60%. Key performance metrics include fraud detection latency under 2 seconds, dashboard uptime exceeding 99.9%, and a 28% increase in risk team engagement post-deployment — delivering transparent intelligence, scalable architecture, and avatar-led clarity for compliance and security teams.
+This fraud detection system blends biometric signals, behavioral analytics, and an agentic AI avatar to detect, explain, and mitigate stock fraud in real time. The application builts with Polars for scalable data modeling and Matplotlib for dynamic visualization, it applies ML-driven sentiment analysis with over 90% accuracy across multiple datasets. Adaptive thresholds recalibrate based on market volatility and user behavior, boosting detection precision by 42%, while autonomous investigative agents reduce manual review time by 60%. With sub-2-second detection latency, 99.9% dashboard uptime, and a 28% increase in risk team engagement, it delivers transparent intelligence and avatar-led clarity for compliance teams. Most fraud platforms stops at detection. This prototype goes further—bridging biometric signals with agentic AI to guide compliance teams through risk scenarios in real time. It’s the missing link between behavioral data and human-centered fraud response.
 
 ## Video of the project:
 
@@ -30,9 +30,9 @@ This fraud detection application is engineered for a high stakes fintech environ
 
 ## Biometric & Behavioral Analytics:
 
-- Biometric Signal Integration: Combines OpenCV and MCP Server inputs to detect stress indicators and correlate with trading anomalies.
-  
-- Sentiment-Behavior Fusion: Merges emotional tone with behavioral drift to surface high-risk patterns in real time.
+- Biometric Signal Integration: Ingests MCP Server inputs to detect physiological stress markers and correlate them with anomalous trading behaviors or access patterns.
+- 
+- Sentiment–Behavior Fusion: Combines emotional tone analysis with behavioral drift (e.g., navigation irregularities, timing anomalies) to surface high-risk patterns in real time.
 
 ## Performance & Engagement Metrics:
 
