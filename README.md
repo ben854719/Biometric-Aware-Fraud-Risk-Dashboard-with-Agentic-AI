@@ -31,8 +31,8 @@ This application develops a fraud detection system blends with a biometric signa
 ## Biometric & Behavioral Analytics:
 
 - Biometric Signal Integration: Ingests MCP Server inputs to detect physiological stress markers and correlate them with anomalous trading behaviors or access patterns.
-- 
-- Sentiment–Behavior Fusion: Combines emotional tone analysis with behavioral drift (e.g., navigation irregularities, timing anomalies) to surface high-risk patterns in real time.
+
+- Sentiment–Behavior Fusion: Combines emotional tone analysis with behavioral drift (e.g., navigation irregularities, timing anomalies) to surface high-risk patterns in       real time.
 
 ## Performance & Engagement Metrics:
 
