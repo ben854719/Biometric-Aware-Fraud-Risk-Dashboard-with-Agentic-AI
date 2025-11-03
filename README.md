@@ -4,9 +4,9 @@
 
 This application develops a fraud detection system blends with a biometric signals, behavioral analytics, and an Agentic AI Avatar to detect, explain, and mitigate the stock fraud in real time. The application builts with Polars for scalable data modeling and Matplotlib for dynamic visualization, it applies ML-driven sentiment analysis with over 90% accuracy across multiple datasets. Adaptive thresholds recalibrate based on market volatility and user behavior, boosting detection precision by 42%, while autonomous investigative agents reduce manual review time by 60%. With sub-2-second detection latency, 99.9% dashboard uptime, and a 28% increase in risk team engagement, it delivers transparent intelligence and avatar-led clarity for compliance teams.
 
-## Video of the project:
+## Video of the project
 
-https://github.com/user-attachments/assets/c3d65239-a885-4ee8-96e0-2ef96566bb8b
+https://github.com/user-attachments/assets/2d453b97-d73c-4186-9ae7-93c2a10a733d
 
 ## Features:
 
