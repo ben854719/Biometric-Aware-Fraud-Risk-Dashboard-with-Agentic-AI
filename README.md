@@ -6,7 +6,7 @@ This application develops a fraud detection system blends with a biometric signa
 
 ## Video of the project:
 
-
+https://github.com/user-attachments/assets/130251fd-8ee3-47cc-9060-45eb42837d
 
 ## Features:
 
